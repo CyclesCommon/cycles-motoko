@@ -7,8 +7,8 @@ Source code [src/Cycles.mo] is a modified version of the [ExperimentalCycles.mo]
 
 Please read the [Cycles Common Specification] proposal for more details.
 
-Examples are provided in the [examples/](../blob/master/examples/) sub-directory.
+Examples are provided in the [examples/](../tree/main/examples/) sub-directory.
 
 [Cycles Common Specification]: https://github.com/CyclesCommon/initiative/pull/1
-[src/Cycles.mo]: https://github.com/CyclesCommon/cycles-motoko/blob/master/src/Cycles.mo
-[ExperimentalCycles.mo]: https://github.com/dfinity/motoko-base/blob/master/src/ExperimentalCycles.mo
+[src/Cycles.mo]: https://github.com/CyclesCommon/cycles-motoko/blob/main/src/Cycles.mo
+[ExperimentalCycles.mo]: https://github.com/dfinity/motoko-base/blob/main/src/ExperimentalCycles.mo
