@@ -9,7 +9,7 @@ Please read the [Cycles Common Specification] proposal for more details.
 
 Examples are provided in the [examples] sub-directory.
 
-[Cycles Common Specification]: https://github.com/CyclesCommon/initiative/pull/1
+[Cycles Common Specification]: https://github.com/CyclesCommon/cycles-common/pull/1
 [src/Cycles.mo]: https://github.com/CyclesCommon/cycles-motoko/blob/main/src/Cycles.mo
 [examples]: https://github.com/CyclesCommon/cycles-motoko/tree/main/examples
 [ExperimentalCycles.mo]: https://github.com/dfinity/motoko-base/blob/master/src/ExperimentalCycles.mo
